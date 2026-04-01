@@ -21,7 +21,7 @@ Simulation d’une infrastructure complète incluant :
 
 👉 Projet en cours d’évolution
 
-🔗 Voir le projet : *(lien à ajouter après création du repo projet)*
+🔗 Voir le projet : https://github.com/emir-moutassiev/Mini-Entreprise-IT
 
 ---
 
